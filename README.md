@@ -117,8 +117,3 @@ Identifies directors with the highest involvement in Prime titles.
 
 - Python 3.x
 - Jupyter Notebook (optional, but recommended)
-
-### Install Required Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn
