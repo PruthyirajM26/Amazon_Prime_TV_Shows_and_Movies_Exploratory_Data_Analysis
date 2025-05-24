@@ -1,4 +1,4 @@
-# 🎬 Amazon Prime Titles – Exploratory Data Analysis (EDA)
+# 🎬 Amazon Prime TV Shows and Movies – Exploratory Data Analysis (EDA)
 
 This project explores and analyzes the metadata of Amazon Prime Video titles using **Exploratory Data Analysis (EDA)** techniques. It provides insights into content distribution, genre popularity, rating trends, production country dominance, and the involvement of actors and directors over the years.
 
