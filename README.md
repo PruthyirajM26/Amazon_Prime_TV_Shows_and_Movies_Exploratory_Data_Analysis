@@ -79,7 +79,7 @@ Visual correlation matrix of numerical features to find relationships among them
 ### 6️⃣ Top 10 Production Countries
 Displays countries that produce the most content available on Amazon Prime.
 
-![Top 10 Production Countries]((https://github.com/PruthyirajM26/Amazon_Prime_TV_Shows_and_Movies_Exploratory_Data_Analysis/blob/e3538986933038dd5dc4843425bbb97d56fa5d27/Image/Top%2010%20Production%20Countries.png))
+![Top 10 Production Countries](https://github.com/PruthyirajM26/Amazon_Prime_TV_Shows_and_Movies_Exploratory_Data_Analysis/blob/6e2c71d652a39271bc8e3b04b80fb47171260a81/Image/Top%2010%20Production%20Countries.png)
 
 ---
 
