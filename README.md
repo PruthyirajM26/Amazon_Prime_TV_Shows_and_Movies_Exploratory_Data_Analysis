@@ -58,7 +58,7 @@ Shows the frequency of content release over time, helping identify spikes or tre
 ### 3️⃣ Top 10 Genres
 Highlights the most common genres available on Amazon Prime.
 
-![Top 10 Genres]([./Top%2010%20Genres.png](https://github.com/PruthyirajM26/Amazon_Prime_TV_Shows_and_Movies_Exploratory_Data_Analysis/blob/be400cd0c9c923b87d8100cc12fb69b52a258388/Image/Top%2010%20Genres.png)
+![Top 10 Genres](https://github.com/PruthyirajM26/Amazon_Prime_TV_Shows_and_Movies_Exploratory_Data_Analysis/blob/4dbef5cc38ec9f8a0343ab8740550c65d84a9d9b/Image/Top%2010%20Genres.png)
 
 ---
 
