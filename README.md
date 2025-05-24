@@ -51,7 +51,7 @@ Analyzes how content is split between movies and TV shows.
 ### 2️⃣ Number of Titles Released Over Years
 Shows the frequency of content release over time, helping identify spikes or trends in production.
 
-![Number of Titles Released Over the Years](https://github.com/PruthyirajM26/Amazon_Prime_TV_Shows_and_Movies_Exploratory_Data_Analysis/blob/be400cd0c9c923b87d8100cc12fb69b52a258388/Image/Number%20of%20Titles%20Released%20Over%20the%20Years.png))
+![Number of Titles Released Over the Years](https://github.com/PruthyirajM26/Amazon_Prime_TV_Shows_and_Movies_Exploratory_Data_Analysis/blob/be400cd0c9c923b87d8100cc12fb69b52a258388/Image/Number%20of%20Titles%20Released%20Over%20the%20Years.png)
 
 ---
 
