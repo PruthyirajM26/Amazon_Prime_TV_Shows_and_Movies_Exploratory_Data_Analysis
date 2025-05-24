@@ -86,14 +86,14 @@ Displays countries that produce the most content available on Amazon Prime.
 ### 7️⃣ IMDB Rating Distribution by Age Certification
 Explores how IMDb scores vary across different age ratings using a box plot.
 
-![IMDB Rating Distribution by Age Certification]((https://github.com/PruthyirajM26/Amazon_Prime_TV_Shows_and_Movies_Exploratory_Data_Analysis/blob/e3538986933038dd5dc4843425bbb97d56fa5d27/Image/IMDB%20Rating%20Distribution%20by%20Age%20Certification.png))
+![IMDB Rating Distribution by Age Certification](https://github.com/PruthyirajM26/Amazon_Prime_TV_Shows_and_Movies_Exploratory_Data_Analysis/blob/5ec3c2f582e17ff32315b38cce9050d905df48e3/Image/IMDB%20Rating%20Distribution%20by%20Age%20Certification.png)
 
 ---
 
 ### 8️⃣ Content Trend by Year
 Shows how production trends (TV vs Movie) change over time.
 
-![Content Trend by Year]((https://github.com/PruthyirajM26/Amazon_Prime_TV_Shows_and_Movies_Exploratory_Data_Analysis/blob/e3538986933038dd5dc4843425bbb97d56fa5d27/Image/Content%20Trend%20by%20Year.png))
+![Content Trend by Year](https://github.com/PruthyirajM26/Amazon_Prime_TV_Shows_and_Movies_Exploratory_Data_Analysis/blob/5ec3c2f582e17ff32315b38cce9050d905df48e3/Image/Content%20Trend%20by%20Year.png)
 
 ---
 
@@ -102,12 +102,12 @@ Shows how production trends (TV vs Movie) change over time.
 #### 🧑‍🎤 Top 10 Actors by Frequency
 Identifies actors who appear most frequently in the dataset.
 
-![Top 10 Actors by Frequency]((https://github.com/PruthyirajM26/Amazon_Prime_TV_Shows_and_Movies_Exploratory_Data_Analysis/blob/e3538986933038dd5dc4843425bbb97d56fa5d27/Image/Top%2010%20Actors%20by%20Frequency.png))
+![Top 10 Actors by Frequency](https://github.com/PruthyirajM26/Amazon_Prime_TV_Shows_and_Movies_Exploratory_Data_Analysis/blob/5ec3c2f582e17ff32315b38cce9050d905df48e3/Image/Top%2010%20Actors%20by%20Frequency.png)
 
 #### 🎬 Top 10 Directors by Frequency
 Identifies directors with the highest involvement in Prime titles.
 
-![Top 10 Directors by Frequency]((https://github.com/PruthyirajM26/Amazon_Prime_TV_Shows_and_Movies_Exploratory_Data_Analysis/blob/e3538986933038dd5dc4843425bbb97d56fa5d27/Image/Top%2010%20Directors%20by%20Frequency.png))
+![Top 10 Directors by Frequency](https://github.com/PruthyirajM26/Amazon_Prime_TV_Shows_and_Movies_Exploratory_Data_Analysis/blob/5ec3c2f582e17ff32315b38cce9050d905df48e3/Image/Top%2010%20Directors%20by%20Frequency.png)
 
 ---
 
